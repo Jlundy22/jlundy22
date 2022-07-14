@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jack Lund</h1>
 <h3 align="center">A full-stack engineer from St. Paul MN</h3>
 
-- 🔭 My favorite project [Drop Zone](https://github.com/Jlundy22/prime-solo-project)
+ 🔭 My favorite project [Drop Zone](https://github.com/Jlundy22/prime-solo-project)
 
-- 📫 How to reach me **Message me on Linkedin.**
+ 📫 How to reach me **Message me on Linkedin.**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jack-lund22/](https://www.linkedin.com/in/jack-lund22/)
+ 📄 Know about my experiences [https://www.linkedin.com/in/jack-lund22/](https://www.linkedin.com/in/jack-lund22/)
 
-- ⚡ Fun fact **I love playing disc golf.**
+ ⚡ Fun fact **I love playing disc golf.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
