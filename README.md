@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack Lund</h1>
 <h3 align="center">A full-stack engineer from St. Paul MN</h3>
 
- 🔭 My favorite project [Drop Zone](https://github.com/Jlundy22/prime-solo-project)
+ 🔭 My passion project [Drop Zone](https://github.com/Jlundy22/prime-solo-project)
 
  📫 How to reach me **Message me on Linkedin.**
 
